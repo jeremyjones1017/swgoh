@@ -1,0 +1,252 @@
+Character,TL,LF,LT,Top_Left,Mid_Left,Bot_Left,Top_Right,Mid_Right,Bot_Right
+Bastila Shan,Y,12,13,Done,Done,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Data Pad,Power Cell Injector (Fusion)
+First Order Executioner,Y,12,13,Done,Done,Done,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Grand Master Yoda,Y,12,13,Done,Done,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
+Jolee Bindo,Y,12,13,Mk 12 ArmaTek Visor,Done,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
+Kylo Ren,Y,12,13,Mk 12 ArmaTek Visor,Done,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
+Kylo Ren (Unmasked),Y,12,13,Done,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Fusion)
+Rey (Jedi Training),Y,12,13,Done,Done,Done,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
+BB-8,Y,11,12,Done,Done,Mk 8 BioTech Implant,Mk 8 Loronar Power Cell,Done,Mk 6 A/KT Stun Gun
+Commander Luke Skywalker,Y,11,12,Done,Mk 9 BioTech Implant,Mk 9 BioTech Implant,Done,Done,Done
+Darth Vader,Y,11,12,Mk 8 Loronar Power Cell,Mk 9 BioTech Implant,Done,Done,Mk 4 Chedak Comlink,Done
+Emperor Palpatine,Y,11,12,Done,Mk 9 TaggeCo Holo Lens,Done,Mk 6 Arakyd Droid Caller,Mk 6 A/KT Stun Gun,Mk 9 BioTech Implant
+First Order Officer,Y,11,12,Done,Done,Mk 8 BioTech Implant,Done,Mk 3 Zaltin Bacta Gel,Mk 6 A/KT Stun Gun
+General Kenobi,Y,11,12,Done,Done,Done,Done,Done,Mk 8 Loronar Power Cell
+Jedi Knight Anakin,Y,11,12,Mk 9 TaggeCo Holo Lens,Done,Mk 5 Chedak Comlink,Done,Done,Done
+Mace Windu,Y,11,12,Mk 5 Arakyd Droid Caller,Done,Mk 5 Athakam Medpac,Done,Mk 9 TaggeCo Holo Lens,Mk 8 Loronar Power Cell
+Princess Leia,Y,11,12,Done,Mk 4 Sienar Holo Projector,Mk 9 BioTech Implant,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 A/KT Stun Gun
+Rey (Scavenger),Y,11,12,Mk 9 BioTech Implant,Mk 4 Czerka Stun Cuffs,Done,Done,Mk 4 Czerka Stun Cuffs,Mk 6 A/KT Stun Gun
+Bastila Shan (Fallen),Y,10,11,Done,Mk 6 CEC Fusion Furnace,Mk 5 Carbanti Sensor Array,Mk 5 A/KT Stun Gun,Done,Mk 6 CEC Fusion Furnace
+Ezra Bridger,Y,10,11,Done,Mk 5 Athakam Medpac,Mk 8 BioTech Implant,Mk 5 A/KT Stun Gun,Done,Done
+Grand Moff Tarkin,Y,10,11,Done,Done,Done,Done,Done,Mk 5 A/KT Stun Gun
+Han Solo,Y,10,11,Mk 5 A/KT Stun Gun,Mk 5 A/KT Stun Gun,Mk 5 CEC Fusion Furnace,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector
+Kanan Jarrus,Y,10,11,Mk 3 Zaltin Bacta Gel,Done,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 10 TaggeCo Holo Lens,Done
+Obi-Wan Kenobi (Old Ben),Y,10,11,Done,Mk 5 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Done,Done,Done
+R2-D2,Y,10,11,Done,Done,Mk 5 A/KT Stun Gun,Done,Done,Done
+Resistance Trooper,Y,10,11,Mk 4 Chedak Comlink,Mk 5 CEC Fusion Furnace,Done,Done,Done,Done
+Stormtrooper Han,Y,10,11,Mk 4 Chedak Comlink,Mk 5 CEC Fusion Furnace,Done,Done,Done,Done
+Boba Fett,Y,9,10,Done,Mk 5 A/KT Stun Gun,Done,Done,Mk 5 CEC Fusion Furnace,Done
+Chopper,Y,9,10,Mk 6 Nubian Design Tech,Mk 7 Nubian Security Scanner,Done,Mk 3 Czerka Stun Cuffs,Done,Done
+First Order Stormtrooper,Y,9,10,Mk 3 Czerka Stun Cuffs,Done,Done,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Done
+Garazeb Zeb Orrelios,Y,9,10,Mk 6 Nubian Design Tech,Mk 9 BlasTech Weapon Mod,Mk 7 Nubian Security Scanner,Mk 3 Carbanti Sensor Array,Mk 3 Czerka Stun Cuffs,Done
+Grand Admiral Thrawn,Y,9,10,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 7 TaggeCo Holo Lens,Done,Done
+Hera Syndulla,Y,9,10,Mk 6 Nubian Design Tech,Mk 5 A/KT Stun Gun,Done,Done,Done,Mk 3 Sienar Holo Projector
+Ahsoka Tano,Y,8,9,Done,Done,Done,Done,Done,Mk 5 CEC Fusion Furnace
+Bossk,Y,8,9,Done,Done,Done,Done,Done,Mk 5 A/KT Stun Gun
+Greedo,Y,8,9,Done,Done,Done,Mk 3 Czerka Stun Cuffs,Mk 3 Czerka Stun Cuffs,Mk 5 CEC Fusion Furnace
+IG-100 MagnaGuard,Y,8,9,Done,Done,Done,Done,Mk 3 Czerka Stun Cuffs,Mk 5 A/KT Stun Gun
+Jango Fett,Y,8,9,Done,Done,Done,Mk 3 Chedak Comlink,Mk 2 Zaltin Bacta Gel,Mk 5 CEC Fusion Furnace
+Cad Bane,Y,7,8,Done,Done,Done,Mk 3 Chedak Comlink,Done,Done
+Canderous Ordo,Y,7,8,Mk 5 CEC Fusion Furnace,Mk 5 A/KT Stun Gun,Mk 3 Czerka Stun Cuffs,Mk 3 Carbanti Sensor Array,Done,Done
+Ewok Scout,Y,7,8,Done,Mk 4 Nubian Design Tech,Done,Done,Mk 7 Loronar Power Cell,Done
+General Grievous,Y,7,8,Done,Done,Done,Done,Mk 3 Chedak Comlink,Mk 5 Chiewab Hypo Syringe
+Nute Gunray,Y,7,8,Done,Done,Done,Done,Done,Mk 3 Chedak Comlink
+Sabine Wren,Y,7,8,Done,Done,Done,Mk 2 Zaltin Bacta Gel,Done,Mk 5 Chiewab Hypo Syringe
+Chief Chirpa,Y,6,7,Done,Mk 4 Chiewab Hypo Syringe,Done,Done,Done,Done
+Count Dooku,Y,6,7,Done,Done,Done,Done,Mk 7 Loronar Power Cell,Mk 8 BlasTech Weapon Mod
+Ewok Elder,Y,6,7,Done,Done,Done,Done,Done,Mk 8 BlasTech Weapon Mod
+Paploo,Y,6,7,Mk 8 BlasTech Weapon Mod,Mk 6 BioTech Implant,Done,Done,Done,Done
+Wicket,Y,6,7,Mk 8 BlasTech Weapon Mod,Done,Done,Done,Done,Done
+Droideka,Y,5,6,Done,Done,Done,Done,Mk 4 Nubian Security Scanner,Done
+HK-47,Y,5,6,Mk 4 Merr-Sonn Thermal Detonator,Done,Done,Done,Mk 6 Neuro-Saav Electrobinoculars,Done
+Juhani,Y,5,6,Done,Done,Done,Done,Mk 4 Nubian Security Scanner,Done
+Carth Onasi,Y,4,5,Done,Done,Done,Done,Done,Mk 4 Nubian Security Scanner
+C-3P0,Y,1,2,Mk 1 CEC Fusion Furnace,Mk 1 A/KT Stun Gun,Mk 1 A/KT Stun Gun,Mk 1 BioTech Implant,Mk 1 Nubian Security Scanner,Mk 1 Neuro-Saav Electrobinoculars
+Chewbacca,Y,1,2,Mk 1 BlasTech Weapon Mod,Mk 1 BlasTech Weapon Mod,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 Nubian Security Scanner,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 CEC Fusion Furnace
+Darth Revan,Y,1,2,Mk 1 BioTech Implant,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 Nubian Security Scanner,Mk 1 BioTech Implant,Mk 1 CEC Fusion Furnace,Mk 1 CEC Fusion Furnace
+Jedi Knight Revan,Y,1,2,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 BAW Armor Mod,Mk 1 BioTech Implant,Mk 1 TaggeCo Holo Lens,Mk 1 CEC Fusion Furnace,Mk 1 Nubian Security Scanner
+Padme Amidala,Y,1,2,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 A/KT Stun Gun,Mk 1 Nubian Security Scanner,Mk 1 Neuro-Saav Electrobinoculars,Mk 1 A/KT Stun Gun,Mk 1 Nubian Security Scanner
+Ahsoka Tano,N,12,13,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Bastila Shan (Fallen),N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Data Pad,Power Cell Injector (Ionic)
+BB-8,N,12,13,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
+Boba Fett,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
+Bossk,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+C-3P0,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Plasma)
+Cad Bane,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
+Chewbacca,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
+Chief Chirpa,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
+Chopper,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
+Commander Luke Skywalker,N,12,13,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Ionic)
+Count Dooku,N,12,13,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Fusion)
+Darth Revan,N,12,13,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Data Pad,Power Cell Injector (Ionic)
+Darth Vader,N,12,13,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Fusion)
+Droideka,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
+Emperor Palpatine,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
+Ewok Elder,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Ewok Scout,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Ezra Bridger,N,12,13,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Plasma)
+First Order Officer,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Plasma)
+First Order Stormtrooper,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Ionic)
+Garazeb Zeb Orrelios,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
+General Grievous,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
+General Kenobi,N,12,13,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
+Grand Admiral Thrawn,N,12,13,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Plasma)
+Grand Moff Tarkin,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Greedo,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
+Han Solo,N,12,13,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
+Hera Syndulla,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Ionic)
+IG-100 MagnaGuard,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
+Jango Fett,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
+Jedi Knight Anakin,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
+Jedi Knight Revan,N,12,13,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Fusion)
+Kanan Jarrus,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Fusion)
+Mace Windu,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Data Pad,Power Cell Injector (Plasma)
+Nute Gunray,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Obi-Wan Kenobi (Old Ben),N,12,13,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Plasma)
+Padme Amidala,N,12,13,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Paploo,N,12,13,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Plasma)
+Princess Leia,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Fusion)
+R2-D2,N,12,13,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Data Pad,Power Cell Injector (Plasma)
+Resistance Trooper,N,12,13,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Plasma)
+Rey (Scavenger),N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Key Pad,Power Cell Injector (Ionic)
+Sabine Wren,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Key Pad,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
+Stormtrooper Han,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+Wicket,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Cybernetics,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
+Ahsoka Tano,N,11,12,Mk 5 A/KT Stun Gun,Mk 4 Sienar Holo Projector,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 A/KT Stun Gun
+Bastila Shan (Fallen),N,11,12,Mk 9 TaggeCo Holo Lens,Mk 9 TaggeCo Holo Lens,Mk 6 A/KT Stun Gun,Mk 6 CEC Fusion Furnace,Mk 6 Arakyd Droid Caller,Mk 10 Neuro-Saav Electrobinoculars
+Boba Fett,N,11,12,Mk 7 Nubian Security Scanner,Mk 11 BlasTech Weapon Mod,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 6 Merr-Sonn Thermal Detonator,Mk 5 Chedak Comlink
+Bossk,N,11,12,Mk 4 Sienar Holo Projector,Mk 10 Neuro-Saav Electrobinoculars,Mk 11 BlasTech Weapon Mod,Mk 4 SoroSuub Keypad,Mk 5 Chiewab Hypo Syringe,Mk 8 Loronar Power Cell
+C-3P0,N,11,12,Mk 6 A/KT Stun Gun,Mk 2 BAW Armor Mod,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 Loronar Power Cell,Mk 4 Zaltin Bacta Gel,Mk 3 Athakam Medpac
+Cad Bane,N,11,12,Mk 7 Merr-Sonn Shield Generator,Mk 9 Fabritech Data Pad,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Chewbacca,N,11,12,Mk 8 BioTech Implant,Mk 11 BlasTech Weapon Mod,Mk 9 Fabritech Data Pad,Mk 4 Sienar Holo Projector,Mk 4 Chedak Comlink,Mk 6 A/KT Stun Gun
+Chief Chirpa,N,11,12,Mk 7 Merr-Sonn Shield Generator,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 10 TaggeCo Holo Lens,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Chopper,N,11,12,Mk 6 A/KT Stun Gun,Mk 6 Arakyd Droid Caller,Mk 4 Sienar Holo Projector,Mk 8 BioTech Implant,Mk 5 Athakam Medpac,Mk 7 Merr-Sonn Shield Generator
+Count Dooku,N,11,12,Mk 7 Merr-Sonn Shield Generator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 9 Fabritech Data Pad,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Darth Revan,N,11,12,Mk 5 Athakam Medpac,Mk 8 Loronar Power Cell,Mk 8 Loronar Power Cell,Mk 8 BioTech Implant,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant
+Droideka,N,11,12,Mk 4 Czerka Stun Cuffs,Mk 7 Nubian Security Scanner,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 6 Chiewab Hypo Syringe,Mk 6 A/KT Stun Gun
+Ewok Elder,N,11,12,Mk 6 Merr-Sonn Thermal Detonator,Mk 4 Czerka Stun Cuffs,Mk 3 Zaltin Bacta Gel,Mk 10 TaggeCo Holo Lens,Mk 5 Athakam Medpac,Mk 9 Fabritech Data Pad
+Ewok Scout,N,11,12,Mk 9 Neuro-Saav Electrobinoculars,Mk 3 Zaltin Bacta Gel,Mk 10 TaggeCo Holo Lens,Mk 10 BlasTech Weapon Mod,Mk 4 Czerka Stun Cuffs,Mk 5 Chedak Comlink
+Ezra Bridger,N,11,12,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 9 BAW Armor Mod,Mk 6 Arakyd Droid Caller,Mk 6 A/KT Stun Gun
+First Order Stormtrooper,N,11,12,Mk 6 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Mk 4 Sienar Holo Projector,Mk 3 Carbanti Sensor Array,Mk 5 Chiewab Hypo Syringe,Mk 7 Merr-Sonn Shield Generator
+Garazeb Zeb Orrelios,N,11,12,Mk 3 Zaltin Bacta Gel,Mk 11 BlasTech Weapon Mod,Mk 6 A/KT Stun Gun,Mk 9 BioTech Implant,Mk 6 Arakyd Droid Caller,Mk 10 BlasTech Weapon Mod
+General Grievous,N,11,12,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 7 Merr-Sonn Shield Generator,Mk 7 Merr-Sonn Shield Generator,Mk 6 A/KT Stun Gun,Mk 6 Merr-Sonn Thermal Detonator
+Grand Admiral Thrawn,N,11,12,Mk 6 CEC Fusion Furnace,Mk 7 Merr-Sonn Shield Generator,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 4 Zaltin Bacta Gel
+Grand Moff Tarkin,N,11,12,Mk 7 Merr-Sonn Shield Generator,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 TaggeCo Holo Lens,Mk 9 Neuro-Saav Electrobinoculars,Mk 5 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Greedo,N,11,12,Mk 5 A/KT Stun Gun,Mk 9 Fabritech Data Pad,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Han Solo,N,11,12,Mk 4 Carbanti Sensor Array,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 6 A/KT Stun Gun
+Hera Syndulla,N,11,12,Mk 8 Loronar Power Cell,Mk 6 Arakyd Droid Caller,Mk 4 Zaltin Bacta Gel,Mk 11 BlasTech Weapon Mod,Mk 5 A/KT Stun Gun,Mk 5 Merr-Sonn Thermal Detonator
+IG-100 MagnaGuard,N,11,12,Mk 10 BlasTech Weapon Mod,Mk 11 BlasTech Weapon Mod,Mk 7 Merr-Sonn Shield Generator,Mk 9 Fabritech Data Pad,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 A/KT Stun Gun
+Jango Fett,N,11,12,Mk 5 A/KT Stun Gun,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 3 Zaltin Bacta Gel,Mk 9 BAW Armor Mod,Mk 9 BioTech Implant
+Jedi Knight Revan,N,11,12,Mk 6 CEC Fusion Furnace,Mk 7 Merr-Sonn Shield Generator,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 4 Zaltin Bacta Gel
+Kanan Jarrus,N,11,12,Mk 3 Zaltin Bacta Gel,Mk 11 BlasTech Weapon Mod,Mk 6 A/KT Stun Gun,Mk 9 BioTech Implant,Mk 6 Arakyd Droid Caller,Mk 10 BlasTech Weapon Mod
+Nute Gunray,N,11,12,Mk 5 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Mk 6 Merr-Sonn Thermal Detonator,Mk 4 Sienar Holo Projector,Mk 8 BioTech Implant,Mk 6 A/KT Stun Gun
+Obi-Wan Kenobi (Old Ben),N,11,12,Mk 6 Merr-Sonn Thermal Detonator,Mk 11 BlasTech Weapon Mod,Mk 5 Athakam Medpac,Mk 9 Fabritech Data Pad,Mk 3 Zaltin Bacta Gel,Mk 4 Zaltin Bacta Gel
+Padme Amidala,N,11,12,Mk 8 BioTech Implant,Mk 4 Carbanti Sensor Array,Mk 6 Merr-Sonn Thermal Detonator,Mk 3 Czerka Stun Cuffs,Mk 3 Czerka Stun Cuffs,Mk 6 A/KT Stun Gun
+Paploo,N,11,12,Mk 4 Czerka Stun Cuffs,Mk 6 Arakyd Droid Caller,Mk 8 BioTech Implant,Mk 7 Merr-Sonn Shield Generator,Mk 5 A/KT Stun Gun,Mk 9 TaggeCo Holo Lens
+R2-D2,N,11,12,Mk 6 Merr-Sonn Thermal Detonator,Mk 6 CEC Fusion Furnace,Mk 5 A/KT Stun Gun,Mk 7 Merr-Sonn Shield Generator,Mk 5 A/KT Stun Gun,Mk 6 Arakyd Droid Caller
+Resistance Trooper,N,11,12,Mk 6 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 3 Carbanti Sensor Array,Mk 5 Chiewab Hypo Syringe,Mk 7 Merr-Sonn Shield Generator
+Sabine Wren,N,11,12,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 A/KT Stun Gun,Mk 6 Arakyd Droid Caller,Mk 5 Chedak Comlink
+Stormtrooper Han,N,11,12,Mk 6 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 4 Sienar Holo Projector,Mk 3 Carbanti Sensor Array,Mk 5 Chiewab Hypo Syringe,Mk 7 Merr-Sonn Shield Generator
+Wicket,N,11,12,Mk 6 A/KT Stun Gun,Mk 6 Arakyd Droid Caller,Mk 6 Merr-Sonn Thermal Detonator,Mk 5 Merr-Sonn Thermal Detonator,Mk 7 Merr-Sonn Shield Generator,Mk 10 TaggeCo Holo Lens
+Ahsoka Tano,N,10,11,Mk 7 Nubian Security Scanner,Mk 4 Sienar Holo Projector,Mk 7 Merr-Sonn Shield Generator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 Merr-Sonn Thermal Detonator
+Boba Fett,N,10,11,Mk 5 CEC Fusion Furnace,Mk 6 Nubian Design Tech,Mk 9 Neuro-Saav Electrobinoculars,Mk 9 Neuro-Saav Electrobinoculars,Mk 7 Merr-Sonn Shield Generator,Mk 4 Chedak Comlink
+Bossk,N,10,11,Mk 4 A/KT Stun Gun,Mk 5 SoroSuub Keypad,Mk 4 Arakyd Droid Caller,Mk 6 Chiewab Hypo Syringe,Mk 4 Carbanti Sensor Array,Mk 5 Carbanti Sensor Array
+C-3P0,N,10,11,Mk 6 Merr-Sonn Thermal Detonator,Mk 10 Neuro-Saav Electrobinoculars,Mk 8 BioTech Implant,Mk 5 Athakam Medpac,Mk 7 Merr-Sonn Shield Generator,Mk 6 Merr-Sonn Shield Generator
+Cad Bane,N,10,11,Mk 9 BlasTech Weapon Mod,Mk 6 Merr-Sonn Shield Generator,Mk 11 BlasTech Weapon Mod,Mk 3 Czerka Stun Cuffs,Mk 3 Czerka Stun Cuffs,Mk 4 Arakyd Droid Caller
+Chewbacca,N,10,11,Mk 6 Merr-Sonn Shield Generator,Mk 8 BioTech Implant,Mk 5 Merr-Sonn Thermal Detonator,Mk 9 Fabritech Data Pad,Mk 9 Neuro-Saav Electrobinoculars,Mk 4 Sienar Holo Projector
+Chief Chirpa,N,10,11,Mk 4 Sienar Holo Projector,Mk 6 Nubian Design Tech,Mk 5 Arakyd Droid Caller,Mk 9 Fabritech Data Pad,Mk 8 BioTech Implant,Mk 10 Neuro-Saav Electrobinoculars
+Chopper,N,10,11,Mk 4 Sienar Holo Projector,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 7 Merr-Sonn Shield Generator,Mk 5 A/KT Stun Gun,Mk 9 Fabritech Data Pad
+Count Dooku,N,10,11,Mk 8 BioTech Implant,Mk 10 Neuro-Saav Electrobinoculars,Mk 4 Athakam Medpac,Mk 3 Czerka Stun Cuffs,Mk 6 Chiewab Hypo Syringe,Mk 9 BlasTech Weapon Mod
+Darth Revan,N,10,11,Mk 6 CEC Fusion Furnace,Mk 5 Athakam Medpac,Mk 8 BioTech Implant,Mk 7 Merr-Sonn Shield Generator,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant
+Droideka,N,10,11,Mk 9 BlasTech Weapon Mod,Mk 8 BioTech Implant,Mk 5 Merr-Sonn Thermal Detonator,Mk 7 Nubian Security Scanner,Mk 6 BlasTech Weapon Mod,Mk 4 Sienar Holo Projector
+Ewok Elder,N,10,11,Mk 9 Fabritech Data Pad,Mk 9 Fabritech Data Pad,Mk 4 Sienar Holo Projector,Mk 7 Merr-Sonn Shield Generator,Mk 6 Nubian Security Scanner,Mk 4 Arakyd Droid Caller
+Ewok Scout,N,10,11,Mk 9 Fabritech Data Pad,Mk 6 Nubian Design Tech,Mk 10 BlasTech Weapon Mod,Mk 3 Zaltin Bacta Gel,Mk 6 Chiewab Hypo Syringe,Mk 7 Nubian Security Scanner
+First Order Stormtrooper,N,10,11,Mk 4 Chedak Comlink,Mk 5 CEC Fusion Furnace,Mk 8 TaggeCo Holo Lens,Mk 4 Nubian Security Scanner,Mk 2 Merr-Sonn Thermal Detonator,Mk 1 Carbanti Sensor Array
+Garazeb Zeb Orrelios,N,10,11,Mk 3 Zaltin Bacta Gel,Mk 5 Merr-Sonn Thermal Detonator,Mk 5 A/KT Stun Gun,Mk 8 BioTech Implant,Mk 10 TaggeCo Holo Lens,Mk 10 BlasTech Weapon Mod
+General Grievous,N,10,11,Mk 4 Carbanti Sensor Array,Mk 3 Sienar Holo Projector,Mk 5 A/KT Stun Gun,Mk 5 Merr-Sonn Thermal Detonator,Mk 9 Neuro-Saav Electrobinoculars,Mk 6 Merr-Sonn Thermal Detonator
+Grand Admiral Thrawn,N,10,11,Mk 7 Merr-Sonn Shield Generator,Mk 9 Neuro-Saav Electrobinoculars,Mk 8 BioTech Implant,Mk 3 Zaltin Bacta Gel,Mk 5 Athakam Medpac,Mk 10 TaggeCo Holo Lens
+Greedo,N,10,11,Mk 8 BAW Armor Mod,Mk 9 Neuro-Saav Electrobinoculars,Mk 7 Merr-Sonn Shield Generator,Mk 4 Sienar Holo Projector,Mk 8 TaggeCo Holo Lens,Mk 6 Merr-Sonn Thermal Detonator
+Hera Syndulla,N,10,11,Mk 6 Merr-Sonn Thermal Detonator,Mk 10 Neuro-Saav Electrobinoculars,Mk 10 TaggeCo Holo Lens,Mk 5 Merr-Sonn Thermal Detonator,Mk 7 Merr-Sonn Shield Generator,Mk 11 BlasTech Weapon Mod
+IG-100 MagnaGuard,N,10,11,Mk 7 Nubian Security Scanner,Mk 5 A/KT Stun Gun,Mk 5 Merr-Sonn Thermal Detonator,Mk 9 Fabritech Data Pad,Mk 4 Sienar Holo Projector,Mk 6 Merr-Sonn Thermal Detonator
+Jango Fett,N,10,11,Mk 2 Zaltin Bacta Gel,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 TaggeCo Holo Lens,Mk 11 BlasTech Weapon Mod,Mk 9 Fabritech Data Pad,Mk 4 Sienar Holo Projector
+Jedi Knight Revan,N,10,11,Mk 7 Merr-Sonn Shield Generator,Mk 9 Neuro-Saav Electrobinoculars,Mk 5 Athakam Medpac,Mk 3 Zaltin Bacta Gel,Mk 5 Athakam Medpac,Mk 10 TaggeCo Holo Lens
+Nute Gunray,N,10,11,Mk 3 Czerka Stun Cuffs,Mk 7 Nubian Security Scanner,Mk 5 CEC Fusion Furnace,Mk 6 Nubian Design Tech,Mk 9 Neuro-Saav Electrobinoculars,Mk 7 Merr-Sonn Shield Generator
+Padme Amidala,N,10,11,Mk 7 Merr-Sonn Shield Generator,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 9 Kyrotech Battle Computer,Mk 5 A/KT Stun Gun,Mk 3 Czerka Stun Cuffs
+Paploo,N,10,11,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 9 Neuro-Saav Electrobinoculars,Mk 7 TaggeCo Holo Lens,Mk 5 Merr-Sonn Thermal Detonator,Mk 6 Merr-Sonn Shield Generator
+Sabine Wren,N,10,11,Mk 6 Merr-Sonn Thermal Detonator,Mk 5 Athakam Medpac,Mk 8 BioTech Implant,Mk 5 A/KT Stun Gun,Mk 7 Merr-Sonn Shield Generator,Mk 2 Athakam Medpac
+Wicket,N,10,11,Mk 6 Merr-Sonn Thermal Detonator,Mk 8 BioTech Implant,Mk 4 Carbanti Sensor Array,Mk 8 BioTech Implant,Mk 5 Merr-Sonn Thermal Detonator,Mk 3 Sienar Holo Projector
+Ahsoka Tano,N,9,10,Mk 2 CEC Fusion Furnace,Mk 1 Chedak Comlink,Mk 5 TaggeCo Holo Lens,Mk 8 Fabritech Data Pad,Mk 6 Nubian Design Tech,Mk 4 Athakam Medpac
+Bossk,N,9,10,Mk 4 SoroSuub Keypad,Mk 3 Athakam Medpac,Mk 2 Zaltin Bacta Gel,Mk 5 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Mk 5 Merr-Sonn Thermal Detonator
+C-3P0,N,9,10,Mk 7 Nubian Security Scanner,Mk 7 Merr-Sonn Shield Generator,Mk 5 A/KT Stun Gun,Mk 8 TaggeCo Holo Lens,Mk 3 Athakam Medpac,Mk 3 Carbanti Sensor Array
+Cad Bane,N,9,10,Mk 2 Athakam Medpac,Mk 8 TaggeCo Holo Lens,Mk 6 Chiewab Hypo Syringe,Mk 7 Nubian Security Scanner,Mk 6 Nubian Design Tech,Mk 4 Athakam Medpac
+Chewbacca,N,9,10,Mk 7 Nubian Security Scanner,Mk 6 Chiewab Hypo Syringe,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 5 CEC Fusion Furnace,Mk 5 CEC Fusion Furnace
+Chief Chirpa,N,9,10,Mk 8 Fabritech Data Pad,Mk 3 Czerka Stun Cuffs,Mk 3 Czerka Stun Cuffs,Mk 5 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Mk 6 Nubian Design Tech
+Count Dooku,N,9,10,Mk 2 Nubian Design Tech,Mk 6 Nubian Security Scanner,Mk 8 TaggeCo Holo Lens,Mk 6 Chiewab Hypo Syringe,Mk 7 Nubian Security Scanner,Mk 4 Athakam Medpac
+Darth Revan,N,9,10,Mk 5 Carbanti Sensor Array,Mk 9 Kyrotech Battle Computer,Mk 7 Nubian Security Scanner,Mk 5 A/KT Stun Gun,Mk 7 Loronar Power Cell,Mk 3 Sienar Holo Projector
+Droideka,N,9,10,Mk 5 A/KT Stun Gun,Mk 4 Arakyd Droid Caller,Mk 7 Nubian Security Scanner,Mk 6 Chiewab Hypo Syringe,Mk 5 CEC Fusion Furnace,Mk 5 CEC Fusion Furnace
+Ewok Elder,N,9,10,Mk 6 BlasTech Weapon Mod,Mk 2 Merr-Sonn Shield Generator,Mk 5 Merr-Sonn Shield Generator,Mk 4 SoroSuub Keypad,Mk 6 Merr-Sonn Shield Generator,Mk 6 Nubian Design Tech
+Ewok Scout,N,9,10,Mk 2 Nubian Design Tech,Mk 2 Athakam Medpac,Mk 4 SoroSuub Keypad,Mk 6 Nubian Security Scanner,Mk 6 Chiewab Hypo Syringe,Mk 6 Nubian Design Tech
+General Grievous,N,9,10,Mk 8 Fabritech Data Pad,Mk 6 Chiewab Hypo Syringe,Mk 3 Czerka Stun Cuffs,Mk 5 CEC Fusion Furnace,Mk 7 Nubian Security Scanner,Mk 4 Chedak Comlink
+Greedo,N,9,10,Mk 3 Czerka Stun Cuffs,Mk 6 Chiewab Hypo Syringe,Mk 3 Czerka Stun Cuffs,Mk 5 A/KT Stun Gun,Mk 6 Nubian Design Tech,Mk 4 Chedak Comlink
+IG-100 MagnaGuard,N,9,10,Mk 3 Athakam Medpac,Mk 3 Czerka Stun Cuffs,Mk 3 Czerka Stun Cuffs,Mk 5 A/KT Stun Gun,Mk 7 Nubian Security Scanner,Mk 5 Merr-Sonn Thermal Detonator
+Jango Fett,N,9,10,Mk 2 Zaltin Bacta Gel,Mk 3 Czerka Stun Cuffs,Mk 6 Chiewab Hypo Syringe,Mk 6 Nubian Design Tech,Mk 7 Nubian Security Scanner,Mk 4 Chedak Comlink
+Jedi Knight Revan,N,9,10,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 7 TaggeCo Holo Lens,Mk 8 TaggeCo Holo Lens,Mk 7 Neuro-Saav Electrobinoculars
+Nute Gunray,N,9,10,Mk 2 Athakam Medpac,Mk 2 Zaltin Bacta Gel,Mk 8 Fabritech Data Pad,Mk 6 Chiewab Hypo Syringe,Mk 7 Nubian Security Scanner,Mk 6 Nubian Design Tech
+Padme Amidala,N,9,10,Mk 3 Czerka Stun Cuffs,Mk 9 BlasTech Weapon Mod,Mk 5 CEC Fusion Furnace,Mk 5 A/KT Stun Gun,Mk 8 TaggeCo Holo Lens,Mk 7 Kyrotech Shock Prod
+Paploo,N,9,10,Mk 5 Merr-Sonn Thermal Detonator,Mk 7 Nubian Security Scanner,Mk 7 BioTech Implant,Mk 7 TaggeCo Holo Lens,Mk 4 SoroSuub Keypad,Mk 3 Sienar Holo Projector
+Sabine Wren,N,9,10,Mk 6 Nubian Design Tech,Mk 5 CEC Fusion Furnace,Mk 6 Chiewab Hypo Syringe,Mk 3 Chedak Comlink,Mk 3 Carbanti Sensor Array,Mk 3 Chiewab Hypo Syringe
+Wicket,N,9,10,Mk 6 Nubian Design Tech,Mk 9 BlasTech Weapon Mod,Mk 5 Chiewab Hypo Syringe,Mk 4 Arakyd Droid Caller,Mk 6 Neuro-Saav Electrobinoculars,Mk 3 Sienar Holo Projector
+C-3P0,N,8,9,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 8 TaggeCo Holo Lens,Mk 7 BioTech Implant,Mk 2 Merr-Sonn Shield Generator,Mk 4 BAW Armor Mod
+Cad Bane,N,8,9,Mk 4 Chiewab Hypo Syringe,Mk 4 SoroSuub Keypad,Mk 6 Nubian Security Scanner,Mk 6 Chiewab Hypo Syringe,Mk 3 Czerka Stun Cuffs,Mk 5 CEC Fusion Furnace
+Canderous Ordo,N,8,9,Mk 5 CEC Fusion Furnace,Mk 5 A/KT Stun Gun,Mk 3 Czerka Stun Cuffs,Mk 3 Carbanti Sensor Array,Mk 6 Chiewab Hypo Syringe,Mk 6 Neuro-Saav Electrobinoculars
+Carth Onasi,N,8,9,Mk 1 Sienar Holo Projector,Mk 5 SoroSuub Keypad,Mk 2 Zaltin Bacta Gel,Mk 7 Fabritech Data Pad,Mk 7 TaggeCo Holo Lens,Mk 5 Arakyd Droid Caller
+Chewbacca,N,8,9,Mk 8 Fabritech Data Pad,Mk 4 Merr-Sonn Thermal Detonator,Mk 5 Merr-Sonn Shield Generator,Mk 4 Nubian Security Scanner,Mk 4 Arakyd Droid Caller,Mk 5 A/KT Stun Gun
+Chief Chirpa,N,8,9,Mk 4 Arakyd Droid Caller,Mk 3 Carbanti Sensor Array,Mk 5 Chiewab Hypo Syringe,Mk 8 TaggeCo Holo Lens,Mk 3 Czerka Stun Cuffs,Mk 7 BioTech Implant
+Count Dooku,N,8,9,Mk 2 Sienar Holo Projector,Mk 7 Fabritech Data Pad,Mk 2 Zaltin Bacta Gel,Mk 8 TaggeCo Holo Lens,Mk 6 Chiewab Hypo Syringe,Mk 5 CEC Fusion Furnace
+Darth Revan,N,8,9,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 7 Kyrotech Shock Prod,Mk 3 Carbanti Sensor Array,Mk 7 Neuro-Saav Electrobinoculars,Mk 8 TaggeCo Holo Lens
+Droideka,N,8,9,Mk 7 TaggeCo Holo Lens,Mk 3 Carbanti Sensor Array,Mk 5 Merr-Sonn Shield Generator,Mk 4 Nubian Security Scanner,Mk 3 Czerka Stun Cuffs,Mk 5 A/KT Stun Gun
+Ewok Elder,N,8,9,Mk 5 BioTech Implant,Mk 2 Athakam Medpac,Mk 7 Loronar Power Cell,Mk 3 Sienar Holo Projector,Mk 5 Nubian Design Tech,Mk 5 CEC Fusion Furnace
+Ewok Scout,N,8,9,Mk 3 Arakyd Droid Caller,Mk 6 BlasTech Weapon Mod,Mk 5 BioTech Implant,Mk 8 BlasTech Weapon Mod,Mk 2 Zaltin Bacta Gel,Mk 5 CEC Fusion Furnace
+General Grievous,N,8,9,Mk 3 Sienar Holo Projector,Mk 8 BlasTech Weapon Mod,Mk 5 Chiewab Hypo Syringe,Mk 6 Chiewab Hypo Syringe,Mk 5 CEC Fusion Furnace,Mk 3 Czerka Stun Cuffs
+HK-47,N,8,9,Mk 6 Nubian Security Scanner,Mk 5 CEC Fusion Furnace,Mk 6 Neuro-Saav Electrobinoculars,Mk 4 Arakyd Droid Caller,Mk 2 Merr-Sonn Shield Generator,Mk 2 Athakam Medpac
+Jedi Knight Revan,N,8,9,Mk 5 A/KT Stun Gun,Mk 5 Arakyd Droid Caller,Mk 3 Sienar Holo Projector,Mk 3 Carbanti Sensor Array,Mk 6 Nubian Security Scanner,Mk 4 A/KT Stun Gun
+Juhani,N,8,9,Mk 5 A/KT Stun Gun,Mk 5 CEC Fusion Furnace,Mk 4 Arakyd Droid Caller,Mk 6 TaggeCo Holo Lens,Mk 8 TaggeCo Holo Lens,Mk 2 Sienar Holo Projector
+Nute Gunray,N,8,9,Mk 2 Nubian Design Tech,Mk 2 Sienar Holo Projector,Mk 7 Fabritech Data Pad,Mk 4 SoroSuub Keypad,Mk 2 Zaltin Bacta Gel,Mk 5 CEC Fusion Furnace
+Padme Amidala,N,8,9,Mk 7 Nubian Security Scanner,Mk 7 BlasTech Weapon Mod,Mk 5 A/KT Stun Gun,Mk 7 Kyrotech Shock Prod,Mk 7 TaggeCo Holo Lens,Mk 2 Zaltin Bacta Gel
+Paploo,N,8,9,Mk 5 Arakyd Droid Caller,Mk 3 Athakam Medpac,Mk 5 Nubian Security Scanner,Mk 4 Arakyd Droid Caller,Mk 4 SoroSuub Keypad,Mk 5 Fabritech Data Pad
+Sabine Wren,N,8,9,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Czerka Stun Cuffs,Mk 8 TaggeCo Holo Lens,Mk 2 Zaltin Bacta Gel,Mk 3 Sienar Holo Projector
+Wicket,N,8,9,Mk 5 CEC Fusion Furnace,Mk 6 Chiewab Hypo Syringe,Mk 3 Carbanti Sensor Array,Mk 8 BlasTech Weapon Mod,Mk 5 SoroSuub Keypad,Mk 5 Nubian Security Scanner
+C-3P0,N,7,8,Mk 3 Carbanti Sensor Array,Mk 3 Athakam Medpac,Mk 8 TaggeCo Holo Lens,Mk 5 Nubian Design Tech,Mk 4 SoroSuub Keypad,Mk 3 Sienar Holo Projector
+Carth Onasi,N,7,8,Mk 3 Sienar Holo Projector,Mk 4 Arakyd Droid Caller,Mk 8 TaggeCo Holo Lens,Mk 4 CEC Fusion Furnace,Mk 2 Zaltin Bacta Gel,Mk 7 TaggeCo Holo Lens
+Chewbacca,N,7,8,Mk 4 Nubian Design Tech,Mk 4 Fabritech Data Pad,Mk 4 Nubian Security Scanner,Mk 4 Arakyd Droid Caller,Mk 7 TaggeCo Holo Lens,Mk 8 Fabritech Data Pad
+Chief Chirpa,N,7,8,Mk 3 Sienar Holo Projector,Mk 7 Neuro-Saav Electrobinoculars,Mk 4 Arakyd Droid Caller,Mk 8 TaggeCo Holo Lens,Mk 8 Fabritech Data Pad,Mk 3 Athakam Medpac
+Count Dooku,N,7,8,Mk 7 BlasTech Weapon Mod,Mk 7 Fabritech Data Pad,Mk 7 Loronar Power Cell,Mk 7 Neuro-Saav Electrobinoculars,Mk 8 Fabritech Data Pad,Mk 8 TaggeCo Holo Lens
+Darth Revan,N,7,8,Mk 6 Chiewab Hypo Syringe,Mk 6 Chiewab Hypo Syringe,Mk 6 Merr-Sonn Shield Generator,Mk 4 Fabritech Data Pad,Mk 4 Nubian Design Tech,Mk 7 BlasTech Weapon Mod
+Droideka,N,7,8,Mk 4 Nubian Design Tech,Mk 4 Fabritech Data Pad,Mk 4 Nubian Security Scanner,Mk 4 Arakyd Droid Caller,Mk 7 TaggeCo Holo Lens,Mk 8 Fabritech Data Pad
+Ewok Elder,N,7,8,Mk 3 CEC Fusion Furnace,Mk 1 Merr-Sonn Thermal Detonator,Mk 3 BioTech Implant,Mk 1 Carbanti Sensor Array,Mk 2 Sienar Holo Projector,Mk 8 Fabritech Data Pad
+HK-47,N,7,8,Mk 3 Carbanti Sensor Array,Mk 8 TaggeCo Holo Lens,Mk 3 Nubian Design Tech,Mk 5 Merr-Sonn Shield Generator,Mk 7 Loronar Power Cell,Mk 6 BioTech Implant
+Jedi Knight Revan,N,7,8,Mk 6 Merr-Sonn Shield Generator,Mk 3 Carbanti Sensor Array,Mk 3 Carbanti Sensor Array,Mk 4 A/KT Stun Gun,Mk 7 Loronar Power Cell,Mk 3 Sienar Holo Projector
+Juhani,N,7,8,Mk 4 Arakyd Droid Caller,Mk 6 Nubian Security Scanner,Mk 7 TaggeCo Holo Lens,Mk 3 Carbanti Sensor Array,Mk 3 Carbanti Sensor Array,Mk 5 SoroSuub Keypad
+Padme Amidala,N,7,8,Mk 8 TaggeCo Holo Lens,Mk 3 Chedak Comlink,Mk 5 Nubian Security Scanner,Mk 2 Chedak Comlink,Mk 2 Zaltin Bacta Gel,Mk 2 Czerka Stun Cuffs
+Paploo,N,7,8,Mk 3 Carbanti Sensor Array,Mk 2 Athakam Medpac,Mk 8 TaggeCo Holo Lens,Mk 5 Fabritech Data Pad,Mk 3 Sienar Holo Projector,Mk 6 Merr-Sonn Shield Generator
+Wicket,N,7,8,Mk 7 TaggeCo Holo Lens,Mk 3 Sienar Holo Projector,Mk 6 Chiewab Hypo Syringe,Mk 5 Chiewab Hypo Syringe,Mk 5 SoroSuub Keypad,Mk 6 BioTech Implant
+C-3P0,N,6,7,Mk 5 Nubian Design Tech,Mk 7 Loronar Power Cell,Mk 7 Fabritech Data Pad,Mk 5 TaggeCo Holo Lens,Mk 4 Fabritech Data Pad,Mk 3 Sienar Holo Projector
+Carth Onasi,N,6,7,Mk 2 TaggeCo Holo Lens,Mk 3 Chiewab Hypo Syringe,Mk 1 Merr-Sonn Thermal Detonator,Mk 7 Fabritech Data Pad,Mk 8 BlasTech Weapon Mod,Mk 4 CEC Fusion Furnace
+Chewbacca,N,6,7,Mk 2 Czerka Stun Cuffs,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 Neuro-Saav Electrobinoculars,Mk 6 TaggeCo Holo Lens,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Arakyd Droid Caller
+Darth Revan,N,6,7,Mk 5 Nubian Design Tech,Mk 7 Neuro-Saav Electrobinoculars,Mk 4 A/KT Stun Gun,Mk 7 Loronar Power Cell,Mk 4 Nubian Design Tech,Mk 3 Sienar Holo Projector
+Droideka,N,6,7,Mk 6 TaggeCo Holo Lens,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 TaggeCo Holo Lens,Mk 4 Chiewab Hypo Syringe,Mk 6 BAW Armor Mod
+HK-47,N,6,7,Mk 7 Neuro-Saav Electrobinoculars,Mk 5 Neuro-Saav Electrobinoculars,Mk 4 Nubian Design Tech,Mk 4 SoroSuub Keypad,Mk 2 Athakam Medpac,Mk 2 Sienar Holo Projector
+Jedi Knight Revan,N,6,7,Mk 4 A/KT Stun Gun,Mk 4 A/KT Stun Gun,Mk 5 Nubian Design Tech,Mk 4 SoroSuub Keypad,Mk 2 Carbanti Sensor Array,Mk 3 Sienar Holo Projector
+Juhani,N,6,7,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 Neuro-Saav Electrobinoculars,Mk 7 Fabritech Data Pad,Mk 4 SoroSuub Keypad,Mk 6 TaggeCo Holo Lens
+Padme Amidala,N,6,7,Mk 4 Merr-Sonn Thermal Detonator,Mk 5 SoroSuub Keypad,Mk 4 Merr-Sonn Thermal Detonator,Mk 5 Nubian Security Scanner,Mk 5 TaggeCo Holo Lens,Mk 2 Czerka Stun Cuffs
+C-3P0,N,5,6,Mk 7 Loronar Power Cell,Mk 7 Fabritech Data Pad,Mk 7 BlasTech Weapon Mod,Mk 1 Zaltin Bacta Gel,Mk 4 Fabritech Data Pad,Mk 5 Loronar Power Cell
+Carth Onasi,N,5,6,Mk 1 Merr-Sonn Thermal Detonator,Mk 5 BioTech Implant,Mk 4 Nubian Security Scanner,Mk 2 Czerka Stun Cuffs,Mk 1 Merr-Sonn Thermal Detonator,Mk 7 Fabritech Data Pad
+Chewbacca,N,5,6,Mk 1 Chiewab Hypo Syringe,Mk 4 Neuro-Saav Electrobinoculars,Mk 3 Fabritech Data Pad,Mk 4 Loronar Power Cell,Mk 4 Nubian Security Scanner,Mk 7 Fabritech Data Pad
+Darth Revan,N,5,6,Mk 7 Loronar Power Cell,Mk 1 Zaltin Bacta Gel,Mk 7 BAW Armor Mod,Mk 4 Fabritech Data Pad,Mk 3 Chiewab Hypo Syringe,Mk 4 Nubian Design Tech
+Jedi Knight Revan,N,5,6,Mk 2 Carbanti Sensor Array,Mk 1 Zaltin Bacta Gel,Mk 7 Loronar Power Cell,Mk 3 Chiewab Hypo Syringe,Mk 5 Loronar Power Cell,Mk 4 BAW Armor Mod
+Padme Amidala,N,5,6,Mk 3 SoroSuub Keypad,Mk 4 Nubian Security Scanner,Mk 4 BioTech Implant,Mk 2 A/KT Stun Gun,Mk 5 Neuro-Saav Electrobinoculars,Mk 4 Fabritech Data Pad
+C-3P0,N,4,5,Mk 3 Chiewab Hypo Syringe,Mk 5 Merr-Sonn Shield Generator,Mk 4 Nubian Design Tech,Mk 7 BlasTech Weapon Mod,Mk 5 Loronar Power Cell,Mk 5 BlasTech Weapon Mod
+Chewbacca,N,4,5,Mk 3 Nubian Security Scanner,Mk 1 Chedak Comlink,Mk 2 Merr-Sonn Thermal Detonator,Mk 4 Fabritech Data Pad,Mk 5 TaggeCo Holo Lens,Mk 6 BAW Armor Mod
+Darth Revan,N,4,5,Mk 5 Merr-Sonn Shield Generator,Mk 4 Nubian Design Tech,Mk 7 BlasTech Weapon Mod,Mk 5 Loronar Power Cell,Mk 6 Loronar Power Cell,Mk 3 Chiewab Hypo Syringe
+Jedi Knight Revan,N,4,5,Mk 1 Carbanti Sensor Array,Mk 4 Fabritech Data Pad,Mk 3 Chiewab Hypo Syringe,Mk 5 Loronar Power Cell,Mk 4 BAW Armor Mod,Mk 3 A/KT Stun Gun
+Padme Amidala,N,4,5,Mk 3 Nubian Security Scanner,Mk 3 SoroSuub Keypad,Mk 2 A/KT Stun Gun,Mk 4 Nubian Security Scanner,Mk 6 BlasTech Weapon Mod,Mk 6 BAW Armor Mod
+C-3P0,N,3,4,Mk 5 BlasTech Weapon Mod,Mk 3 Fabritech Data Pad,Mk 6 Loronar Power Cell,Mk 4 Fabritech Data Pad,Mk 4 BAW Armor Mod,Mk 1 Czerka Stun Cuffs
+Chewbacca,N,3,4,Mk 1 Chiewab Hypo Syringe,Mk 3 SoroSuub Keypad,Mk 4 Fabritech Data Pad,Mk 4 BAW Armor Mod,Mk 5 BAW Armor Mod,Mk 4 Fabritech Data Pad
+Darth Revan,N,3,4,Mk 3 A/KT Stun Gun,Mk 4 Merr-Sonn Shield Generator,Mk 3 BlasTech Weapon Mod,Mk 4 BAW Armor Mod,Mk 5 Loronar Power Cell,Mk 3 BAW Armor Mod
+Jedi Knight Revan,N,3,4,Mk 4 Fabritech Data Pad,Mk 2 Merr-Sonn Thermal Detonator,Mk 1 Merr-Sonn Thermal Detonator,Mk 4 Fabritech Data Pad,Mk 5 Loronar Power Cell,Mk 2 Merr-Sonn Thermal Detonator
+Padme Amidala,N,3,4,Mk 4 BioTech Implant,Mk 2 SoroSuub Keypad,Mk 3 BAW Armor Mod,Mk 3 Nubian Security Scanner,Mk 3 SoroSuub Keypad,Mk 6 BlasTech Weapon Mod
+C-3P0,N,2,3,Mk 1 A/KT Stun Gun,Mk 3 TaggeCo Holo Lens,Mk 2 BAW Armor Mod,Mk 1 Czerka Stun Cuffs,Mk 1 Merr-Sonn Shield Generator,Mk 1 Merr-Sonn Shield Generator
+Chewbacca,N,2,3,Mk 1 Neuro-Saav Electrobinoculars,Mk 2 BioTech Implant,Mk 2 TaggeCo Holo Lens,Mk 1 Chiewab Hypo Syringe,Mk 1 Chiewab Hypo Syringe,Mk 1 Sienar Holo Projector
+Darth Revan,N,2,3,Mk 3 Neuro-Saav Electrobinoculars,Mk 2 Arakyd Droid Caller,Mk 1 Merr-Sonn Shield Generator,Mk 3 TaggeCo Holo Lens,Mk 1 Czerka Stun Cuffs,Mk 2 SoroSuub Keypad
+Jedi Knight Revan,N,2,3,Mk 1 CEC Fusion Furnace,Mk 3 TaggeCo Holo Lens,Mk 2 SoroSuub Keypad,Mk 1 Sienar Holo Projector,Mk 1 Czerka Stun Cuffs,Mk 3 TaggeCo Holo Lens
+Padme Amidala,N,2,3,Mk 1 Sienar Holo Projector,Mk 1 Sienar Holo Projector,Mk 3 BAW Armor Mod,Mk 2 SoroSuub Keypad,Mk 2 Neuro-Saav Electrobinoculars,Mk 2 Neuro-Saav Electrobinoculars
