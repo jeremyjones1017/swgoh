@@ -12,7 +12,8 @@ from termcolor import colored
 
 def main():
 	os.system('cls')
-	swgoh_dir = 'C:/Users/Jeremy/Dropbox/Programing/swgoh/'
+	#swgoh_dir = 'C:/Users/Jeremy/Dropbox/Programing/swgoh/'
+	swgoh_dir = os.getcwd()
 	
 	char_df = pd.read_csv(os.path.join(swgoh_dir,'characters.csv'))
 	gear_df = pd.read_csv(os.path.join(swgoh_dir,'gear.csv'))
