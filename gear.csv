@@ -45,10 +45,10 @@ Sabine Wren,Y,7,8,Done,Done,Done,Mk 2 Zaltin Bacta Gel,Done,Mk 5 Chiewab Hypo Sy
 Chief Chirpa,Y,6,7,Done,Mk 4 Chiewab Hypo Syringe,Done,Done,Done,Done
 Count Dooku,Y,6,7,Done,Done,Done,Done,Mk 7 Loronar Power Cell,Mk 8 BlasTech Weapon Mod
 Ewok Elder,Y,6,7,Done,Done,Done,Done,Done,Mk 8 BlasTech Weapon Mod
+HK-47,Y,6,7,Mk 7 Neuro-Saav Electrobinoculars,Done,Mk 4 Nubian Design Tech,Mk 4 SoroSuub Keypad,Done,Done
 Paploo,Y,6,7,Mk 8 BlasTech Weapon Mod,Mk 6 BioTech Implant,Done,Done,Done,Done
 Wicket,Y,6,7,Mk 8 BlasTech Weapon Mod,Done,Done,Done,Done,Done
 Droideka,Y,5,6,Done,Done,Done,Done,Mk 4 Nubian Security Scanner,Done
-HK-47,Y,5,6,Mk 4 Merr-Sonn Thermal Detonator,Done,Done,Done,Mk 6 Neuro-Saav Electrobinoculars,Done
 Juhani,Y,5,6,Done,Done,Done,Done,Mk 4 Nubian Security Scanner,Done
 Carth Onasi,Y,4,5,Done,Done,Done,Done,Done,Mk 4 Nubian Security Scanner
 C-3P0,Y,1,2,Mk 1 CEC Fusion Furnace,Mk 1 A/KT Stun Gun,Mk 1 A/KT Stun Gun,Mk 1 BioTech Implant,Mk 1 Nubian Security Scanner,Mk 1 Neuro-Saav Electrobinoculars
@@ -225,7 +225,6 @@ Carth Onasi,N,6,7,Mk 2 TaggeCo Holo Lens,Mk 3 Chiewab Hypo Syringe,Mk 1 Merr-Son
 Chewbacca,N,6,7,Mk 2 Czerka Stun Cuffs,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 Neuro-Saav Electrobinoculars,Mk 6 TaggeCo Holo Lens,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Arakyd Droid Caller
 Darth Revan,N,6,7,Mk 5 Nubian Design Tech,Mk 7 Neuro-Saav Electrobinoculars,Mk 4 A/KT Stun Gun,Mk 7 Loronar Power Cell,Mk 4 Nubian Design Tech,Mk 3 Sienar Holo Projector
 Droideka,N,6,7,Mk 6 TaggeCo Holo Lens,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 TaggeCo Holo Lens,Mk 4 Chiewab Hypo Syringe,Mk 6 BAW Armor Mod
-HK-47,N,6,7,Mk 7 Neuro-Saav Electrobinoculars,Mk 5 Neuro-Saav Electrobinoculars,Mk 4 Nubian Design Tech,Mk 4 SoroSuub Keypad,Mk 2 Athakam Medpac,Mk 2 Sienar Holo Projector
 Jedi Knight Revan,N,6,7,Mk 4 A/KT Stun Gun,Mk 4 A/KT Stun Gun,Mk 5 Nubian Design Tech,Mk 4 SoroSuub Keypad,Mk 2 Carbanti Sensor Array,Mk 3 Sienar Holo Projector
 Juhani,N,6,7,Mk 4 Merr-Sonn Thermal Detonator,Mk 4 Merr-Sonn Thermal Detonator,Mk 6 Neuro-Saav Electrobinoculars,Mk 7 Fabritech Data Pad,Mk 4 SoroSuub Keypad,Mk 6 TaggeCo Holo Lens
 Padme Amidala,N,6,7,Mk 4 Merr-Sonn Thermal Detonator,Mk 5 SoroSuub Keypad,Mk 4 Merr-Sonn Thermal Detonator,Mk 5 Nubian Security Scanner,Mk 5 TaggeCo Holo Lens,Mk 2 Czerka Stun Cuffs

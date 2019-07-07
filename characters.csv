@@ -16,7 +16,7 @@ Jedi Knight Anakin,85,7,0,11,6,Themself,N/A
 Mace Windu,85,7,0,11,6,Themself,N/A
 Princess Leia,85,7,0,11,3,Themself,N/A
 Rey (Scavenger),85,7,0,11,2,Themself,N/A
-Bastila Shan (Fallen),85,5,71,10,5,Darth Revan,Yellow
+Bastila Shan (Fallen),85,5,72,10,5,Darth Revan,Yellow
 Ezra Bridger,85,7,0,10,1,Themself,N/A
 Grand Moff Tarkin,85,7,0,10,5,Themself,N/A
 Han Solo,85,7,0,10,3,Themself,N/A
@@ -37,20 +37,20 @@ Greedo,85,7,0,8,7,Chewbacca,N/A
 IG-100 MagnaGuard,85,7,0,8,10,Padme Amidala,N/A
 Jango Fett,85,5,75,8,7,Chewbacca,Yellow
 Cad Bane,85,7,0,7,7,Chewbacca,N/A
-Canderous Ordo,78,3,6,7,11,Darth Revan,Red
+Canderous Ordo,80,3,10,7,11,Darth Revan,Red
 Ewok Scout,85,7,0,7,9,C-3P0,N/A
-General Grievous,84,5,74,7,10,Padme Amidala,Store
-Nute Gunray,63,4,48,7,10,Padme Amidala,Store
+General Grievous,85,5,79,7,10,Padme Amidala,Store
+Nute Gunray,65,4,48,7,10,Padme Amidala,Store
 Sabine Wren,85,4,55,7,8,Themself,Yellow
 Chief Chirpa,85,3,21,6,9,C-3P0,Red
 Count Dooku,85,6,74,6,10,Padme Amidala,Yellow
 Ewok Elder,85,5,77,6,9,C-3P0,Yellow
-Paploo,48,3,0,6,9,C-3P0,Red
-Wicket,53,2,23,6,9,C-3P0,Yellow
-Droideka,58,3,10,5,10,Padme Amidala,Yellow
-HK-47,43,5,51,5,11,Darth Revan,Store
-Juhani,73,3,9,5,11,Darth Revan,Yellow
-Carth Onasi,68,4,7,4,11,Darth Revan,Blue
+HK-47,45,5,56,6,11,Darth Revan,Store
+Paploo,50,3,5,6,9,C-3P0,Red
+Wicket,55,3,1,6,9,C-3P0,Yellow
+Droideka,60,3,10,5,10,Padme Amidala,Yellow
+Juhani,75,3,11,5,11,Darth Revan,Yellow
+Carth Onasi,70,4,7,4,11,Darth Revan,Blue
 C-3P0,0,0,50,0,2,Themself,Special
 Chewbacca,0,0,100,0,3,Themself,Special
 Darth Revan,0,0,0,0,11,Themself,Special
