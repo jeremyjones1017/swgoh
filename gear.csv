@@ -1,6 +1,7 @@
 Character,TL,LF,LT,Top_Left,Mid_Left,Bot_Left,Top_Right,Mid_Right,Bot_Right
 Bastila Shan,Y,12,13,Done,Done,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Data Pad,Power Cell Injector (Fusion)
 First Order Executioner,Y,12,13,Done,Done,Done,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
+General Kenobi,Y,12,13,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
 Grand Master Yoda,Y,12,13,Done,Done,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Fusion)
 Jolee Bindo,Y,12,13,Mk 12 ArmaTek Visor,Done,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
 Kylo Ren,Y,12,13,Mk 12 ArmaTek Visor,Done,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Stun Gun,Power Cell Injector (Plasma)
@@ -11,7 +12,6 @@ Commander Luke Skywalker,Y,11,12,Done,Mk 9 BioTech Implant,Mk 9 BioTech Implant,
 Darth Vader,Y,11,12,Mk 8 Loronar Power Cell,Mk 9 BioTech Implant,Done,Done,Mk 4 Chedak Comlink,Done
 Emperor Palpatine,Y,11,12,Done,Mk 9 TaggeCo Holo Lens,Done,Mk 6 Arakyd Droid Caller,Mk 6 A/KT Stun Gun,Mk 9 BioTech Implant
 First Order Officer,Y,11,12,Done,Done,Mk 8 BioTech Implant,Done,Mk 3 Zaltin Bacta Gel,Mk 6 A/KT Stun Gun
-General Kenobi,Y,11,12,Done,Done,Done,Done,Done,Mk 8 Loronar Power Cell
 Jedi Knight Anakin,Y,11,12,Mk 9 TaggeCo Holo Lens,Done,Mk 5 Chedak Comlink,Done,Done,Done
 Mace Windu,Y,11,12,Mk 5 Arakyd Droid Caller,Done,Mk 5 Athakam Medpac,Done,Mk 9 TaggeCo Holo Lens,Mk 8 Loronar Power Cell
 Princess Leia,Y,11,12,Done,Mk 4 Sienar Holo Projector,Mk 9 BioTech Implant,Mk 8 BioTech Implant,Mk 8 BioTech Implant,Mk 6 A/KT Stun Gun
@@ -26,10 +26,10 @@ R2-D2,Y,10,11,Done,Done,Mk 5 A/KT Stun Gun,Done,Done,Done
 Resistance Trooper,Y,10,11,Mk 4 Chedak Comlink,Mk 5 CEC Fusion Furnace,Done,Done,Done,Done
 Stormtrooper Han,Y,10,11,Mk 4 Chedak Comlink,Mk 5 CEC Fusion Furnace,Done,Done,Done,Done
 Boba Fett,Y,9,10,Done,Mk 5 A/KT Stun Gun,Done,Done,Mk 5 CEC Fusion Furnace,Done
-Chopper,Y,9,10,Mk 6 Nubian Design Tech,Mk 7 Nubian Security Scanner,Done,Mk 3 Czerka Stun Cuffs,Done,Done
+Chopper,Y,9,10,Mk 6 Nubian Design Tech,Done,Done,Mk 3 Czerka Stun Cuffs,Done,Done
 First Order Stormtrooper,Y,9,10,Mk 3 Czerka Stun Cuffs,Done,Done,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Done
 Garazeb Zeb Orrelios,Y,9,10,Mk 6 Nubian Design Tech,Mk 9 BlasTech Weapon Mod,Mk 7 Nubian Security Scanner,Mk 3 Carbanti Sensor Array,Mk 3 Czerka Stun Cuffs,Done
-Grand Admiral Thrawn,Y,9,10,Mk 5 Arakyd Droid Caller,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 7 TaggeCo Holo Lens,Done,Done
+Grand Admiral Thrawn,Y,9,10,Done,Mk 5 A/KT Stun Gun,Mk 3 Carbanti Sensor Array,Mk 7 TaggeCo Holo Lens,Done,Done
 Hera Syndulla,Y,9,10,Mk 6 Nubian Design Tech,Mk 5 A/KT Stun Gun,Done,Done,Done,Mk 3 Sienar Holo Projector
 Ahsoka Tano,Y,8,9,Done,Done,Done,Done,Done,Mk 5 CEC Fusion Furnace
 Bossk,Y,8,9,Done,Done,Done,Done,Done,Mk 5 A/KT Stun Gun
@@ -45,7 +45,7 @@ Sabine Wren,Y,7,8,Done,Done,Done,Mk 2 Zaltin Bacta Gel,Done,Mk 5 Chiewab Hypo Sy
 Chief Chirpa,Y,6,7,Done,Mk 4 Chiewab Hypo Syringe,Done,Done,Done,Done
 Count Dooku,Y,6,7,Done,Done,Done,Done,Mk 7 Loronar Power Cell,Mk 8 BlasTech Weapon Mod
 Ewok Elder,Y,6,7,Done,Done,Done,Done,Done,Mk 8 BlasTech Weapon Mod
-HK-47,Y,6,7,Mk 7 Neuro-Saav Electrobinoculars,Done,Mk 4 Nubian Design Tech,Mk 4 SoroSuub Keypad,Done,Done
+HK-47,Y,6,7,Mk 7 Neuro-Saav Electrobinoculars,Done,Done,Mk 4 SoroSuub Keypad,Done,Done
 Paploo,Y,6,7,Mk 8 BlasTech Weapon Mod,Mk 6 BioTech Implant,Done,Done,Done,Done
 Wicket,Y,6,7,Mk 8 BlasTech Weapon Mod,Done,Done,Done,Done,Done
 Droideka,Y,5,6,Done,Done,Done,Done,Mk 4 Nubian Security Scanner,Done
@@ -79,7 +79,6 @@ First Order Officer,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 
 First Order Stormtrooper,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Thermal Detonator,Power Cell Injector (Ionic)
 Garazeb Zeb Orrelios,N,12,13,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Thermal Detonator,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
 General Grievous,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Fusion Furnace,Mk 12 ArmaTek Fusion Furnace,Power Cell Injector (Ionic)
-General Kenobi,N,12,13,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Tactical Data,Mk 12 ArmaTek Armor Plating,Mk 12 ArmaTek Holo Lens,Mk 12 ArmaTek Key Pad,Power Cell Injector (Fusion)
 Grand Admiral Thrawn,N,12,13,Mk 12 ArmaTek Visor,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Key Pad,Power Cell Injector (Plasma)
 Grand Moff Tarkin,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Wrist Band,Mk 12 ArmaTek Data Pad,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Ionic)
 Greedo,N,12,13,Mk 12 ArmaTek Medpac,Mk 12 ArmaTek Bayonet,Mk 12 ArmaTek Multi-tool,Mk 12 ArmaTek Stun Gun,Mk 12 ArmaTek Holo Lens,Power Cell Injector (Plasma)
