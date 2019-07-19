@@ -1,58 +1,58 @@
 Character,Level,Star,Shards,Gear,Team,Needed_For,Source
+Ahsoka Tano,85,7,0,8,6,Themself,N/A
 Bastila Shan,85,7,0,12,1,Jedi Knight Revan,N/A
-First Order Executioner,85,7,0,12,4,Themself,N/A
-General Kenobi,85,7,0,12,6,Themself,N/A
-Grand Master Yoda,85,7,0,12,1,Themself,N/A
-Jolee Bindo,85,7,0,12,1,Jedi Knight Revan,N/A
-Kylo Ren,85,7,0,12,4,Themself,N/A
-Kylo Ren (Unmasked),85,7,0,12,4,Themself,N/A
-Rey (Jedi Training),85,7,0,12,2,Themself,N/A
 BB-8,85,7,0,11,2,Themself,N/A
+Boba Fett,85,7,0,9,7,Chewbacca,N/A
+Cad Bane,85,7,0,7,7,Chewbacca,N/A
+Chopper,85,7,0,9,8,Themself,N/A
 Commander Luke Skywalker,85,7,0,11,3,Themself,N/A
 Darth Vader,85,7,0,11,5,Themself,N/A
 Emperor Palpatine,85,7,0,11,5,Themself,N/A
-First Order Officer,85,7,0,11,4,Themself,N/A
-Jedi Knight Anakin,85,7,0,11,6,Themself,N/A
-Mace Windu,85,7,0,11,6,Themself,N/A
-Princess Leia,85,7,0,11,3,Themself,N/A
-Rey (Scavenger),85,7,0,11,2,Themself,N/A
-Bastila Shan (Fallen),85,5,77,10,5,Darth Revan,Yellow
+Ewok Scout,85,7,0,7,9,C-3P0,N/A
 Ezra Bridger,85,7,0,10,1,Themself,N/A
-Grand Moff Tarkin,85,7,0,10,5,Themself,N/A
-Han Solo,85,7,0,10,3,Themself,N/A
-Kanan Jarrus,85,7,0,10,8,Themself,N/A
-Obi-Wan Kenobi (Old Ben),85,7,0,10,3,Themself,N/A
-R2-D2,85,7,0,10,2,Themself,N/A
-Resistance Trooper,85,6,39,10,2,Themself,Yellow
-Stormtrooper Han,85,7,0,10,3,Themself,N/A
-Boba Fett,85,7,0,9,7,Chewbacca,N/A
-Chopper,85,7,0,9,8,Themself,N/A
+First Order Executioner,85,7,0,12,4,Themself,N/A
+First Order Officer,85,7,0,11,4,Themself,N/A
 First Order Stormtrooper,85,7,0,9,4,Themself,N/A
 Garazeb Zeb Orrelios,85,7,0,9,8,Themself,N/A
+General Kenobi,85,7,0,12,6,Themself,N/A
 Grand Admiral Thrawn,85,7,0,9,5,Themself,N/A
-Hera Syndulla,85,7,0,9,8,Themself,N/A
-Ahsoka Tano,85,7,0,8,6,Themself,N/A
-Bossk,85,5,64,8,7,Chewbacca,Yellow
+Grand Master Yoda,85,7,0,12,1,Themself,N/A
+Grand Moff Tarkin,85,7,0,10,5,Themself,N/A
 Greedo,85,7,0,8,7,Chewbacca,N/A
+Han Solo,85,7,0,10,3,Themself,N/A
+Hera Syndulla,85,7,0,9,8,Themself,N/A
 IG-100 MagnaGuard,85,7,0,8,10,Padme Amidala,N/A
-Jango Fett,85,5,76,8,7,Chewbacca,Yellow
-Cad Bane,85,7,0,7,7,Chewbacca,N/A
-Canderous Ordo,81,3,18,7,11,Darth Revan,Red
-Ewok Scout,85,7,0,7,9,C-3P0,N/A
-General Grievous,85,6,9,7,10,Padme Amidala,Store
-Nute Gunray,65,4,48,7,10,Padme Amidala,Store
-Sabine Wren,85,4,55,7,8,Themself,Yellow
-Chief Chirpa,85,3,21,6,9,C-3P0,Red
-Count Dooku,85,6,79,6,10,Padme Amidala,Yellow
-Ewok Elder,85,5,77,6,9,C-3P0,Yellow
-HK-47,45,6,2,6,11,Darth Revan,Store
-Paploo,50,3,10,6,9,C-3P0,Red
-Wicket,55,3,8,6,9,C-3P0,Yellow
-Droideka,60,3,10,5,10,Padme Amidala,Yellow
-Juhani,76,3,15,5,11,Darth Revan,Yellow
-Carth Onasi,71,4,10,4,11,Darth Revan,Blue
+Jedi Knight Anakin,85,7,0,11,6,Themself,N/A
+Jedi Knight Revan,85,7,0,10,1,Themself,Special
+Jolee Bindo,85,7,0,12,1,Jedi Knight Revan,N/A
+Kanan Jarrus,85,7,0,10,8,Themself,N/A
+Kylo Ren,85,7,0,12,4,Themself,N/A
+Kylo Ren (Unmasked),85,7,0,12,4,Themself,N/A
+Mace Windu,85,7,0,11,6,Themself,N/A
+Obi-Wan Kenobi (Old Ben),85,7,0,10,3,Themself,N/A
+Princess Leia,85,7,0,11,3,Themself,N/A
+R2-D2,85,7,0,10,2,Themself,N/A
+Rey (Jedi Training),85,7,0,12,2,Themself,N/A
+Rey (Scavenger),85,7,0,11,2,Themself,N/A
+Stormtrooper Han,85,7,0,10,3,Themself,N/A
+Bastila Shan (Fallen),85,6,1,10,5,Darth Revan,Yellow
+Count Dooku,85,6,95,6,10,Padme Amidala,Yellow
+Ewok Elder,85,6,6,8,9,C-3P0,Yellow
+General Grievous,85,6,44,7,10,Padme Amidala,Store
+HK-47,58,6,62,7,11,Darth Revan,Store
+Resistance Trooper,85,6,45,10,2,Themself,Yellow
+Bossk,85,5,70,8,7,Chewbacca,Yellow
+Jango Fett,85,5,82,8,7,Chewbacca,Yellow
+Nute Gunray,79,5,5,7,10,Padme Amidala,Store
+Canderous Ordo,85,4,6,7,11,Darth Revan,Red
+Carth Onasi,84,4,26,5,11,Darth Revan,Blue
+Chief Chirpa,85,4,0,7,9,C-3P0,Red
+Juhani,85,4,2,7,11,Darth Revan,Yellow
+Paploo,63,4,0,6,9,C-3P0,Red
+Sabine Wren,85,4,62,7,8,Themself,Yellow
+Droideka,74,3,16,5,10,Padme Amidala,Yellow
+Wicket,69,3,21,7,9,C-3P0,Yellow
 C-3P0,0,0,50,0,2,Themself,Special
 Chewbacca,0,0,100,0,3,Themself,Special
 Darth Revan,0,0,0,0,11,Themself,Special
-Jedi Knight Revan,0,0,165,0,1,Themself,Special
 Padme Amidala,0,0,75,0,6,Themself,Special
